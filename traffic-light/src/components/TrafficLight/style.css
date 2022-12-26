@@ -1,0 +1,14 @@
+.sinalization__luz {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  cursor: pointer;
+  opacity: 0.3;
+  border: 2px solid transparent;
+}
+
+.sinalization__luz-on {
+  opacity: 1;
+  border-color: white;
+  
+}
